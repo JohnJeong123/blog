@@ -26,6 +26,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
+  githubUrl = "https://github.com/JohnJeong123/blog/commit"
 
   # themeColor = "#494f5c"  # Theme color in meta tags.
   # homeSubtitle = "A minimal and fast theme for Hugo."
