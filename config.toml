@@ -57,5 +57,5 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
   [[menu.main]]
     name = "About"
-    url = "/about-hugo/"
+    url = "/about/"
     weight = 20
