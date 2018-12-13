@@ -36,9 +36,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/"
 
   [[params.social]]
     name = "instagram"
@@ -49,7 +46,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     url = "https://github.com/johnjeong123"
 
 [menu]
-
   [[menu.main]]
     name = "Posts"
     url = "/posts/"
