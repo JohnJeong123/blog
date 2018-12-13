@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-languageCode = "en-us"
-title = "Hugo Hermit"
+baseURL = "https://johnjeong123.github.io"
+languageCode = "ko-kr"
+title = "Weicome's Reading Log"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -8,12 +8,12 @@ pygmentsUseClasses  = true
 hasCJKLanguage = true  # If there're Chinese/Japanese/Korean Languages in the content, enable this.
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+enableEmoji = false  # Shorthaed emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "John Doe"
+  name = "weicome"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -43,11 +43,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[params.social]]
     name = "instagram"
-    url = "https://instagram.com/"
+    url = "https://instagram.com/johnnnny"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/johnjeong123"
 
 [menu]
 
