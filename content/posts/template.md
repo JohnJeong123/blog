@@ -18,9 +18,6 @@ Combined emphasis with **asterisks and _underscores_**.
 취소선
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-들여쓰기
-⋅⋅⋅
-
 블러추가
 *
 -
