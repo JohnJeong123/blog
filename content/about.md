@@ -5,4 +5,4 @@ draft: false
 ---
 
 * Email : frenchofkiss@gmail.com
-* 작가지망 개발자
+* Developer Wanted Author
