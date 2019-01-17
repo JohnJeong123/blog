@@ -22,8 +22,8 @@ googleAnalytics = "UA-131001175-1"
   category = ""  # Categories are disabled by default.
 
 [params]
-  dateform        = "2006-01-07"
-  dateformShort   = "2006-01-07"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   # githubUrl = "https://github.com/JohnJeong123/blog/commit"
