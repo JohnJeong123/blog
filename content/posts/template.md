@@ -46,7 +46,6 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ![아픔이길이되려면-김승섭](https://misc.ridibooks.com/cover/754021964/xxlarge)
 
 ## 오문오답
-
 1) 저자가 말하고 싶은 것이 무엇인가?
 
 -
@@ -59,11 +58,11 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 -
 
-4) 다시 읽는다면 어느 부분을 제일 먼저 읽겠는가?
+4) 어떤 점을 배웠는가?
 
 -
 
-5) 어떤 점을 배웠는가?
+5) 저자에게 한가지 꼭 묻고싶은게 있다면?
 
 -
 
