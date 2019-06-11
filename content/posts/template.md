@@ -58,11 +58,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 -
 
-4) 어떤 점을 배웠는가?
-
--
-
-5) 저자에게 한가지 꼭 묻고싶은게 있다면?
+4) 저자에게 한가지 꼭 묻고싶은게 있다면?
 
 -
 
